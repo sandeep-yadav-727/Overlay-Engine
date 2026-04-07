@@ -1,0 +1,19 @@
+# Global
+__pycache__/
+*.pyc
+.DS_Store
+
+# Test Data
+images/
+output_images/
+Logo.jpeg
+out.txt
+out_py.txt
+out_py2.txt
+
+# Backend
+webapp/backend/venv/
+
+# Frontend
+webapp/frontend/node_modules/
+webapp/frontend/dist/
